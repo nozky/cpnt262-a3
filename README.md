@@ -2,9 +2,9 @@
 
 ---
 ### links
-GH repo: []()
+GH repo: [https://github.com/nozky/cpnt262-a3](https://github.com/nozky/cpnt262-a3)
 
-Heroku Url: []()
+Heroku Url: [https://norvs-cpnt262-a3.herokuapp.com/](https://norvs-cpnt262-a3.herokuapp.com/)
 
 ---
 ### Author
